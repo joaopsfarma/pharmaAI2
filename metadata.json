@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack Starter",
+  "description": "A robust full-stack application template with React, Express, SQLite, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
